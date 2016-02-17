@@ -1,0 +1,24 @@
+#center	{
+	text-align: center;
+	font-size: 60px;
+	}
+	
+
+#right	{
+	float: right;
+	text-align: right;
+}
+
+h2	{
+	font-size:40px;
+	border-bottom: solid white;
+}
+
+ul	{
+	font-size: 30px;
+}
+
+#left	{
+	float: left;
+	text-align: left;
+}
